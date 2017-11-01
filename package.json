@@ -1,0 +1,22 @@
+{
+  "name": "dumbscrabble",
+  "version": "1.0.0",
+  "description": "Dumb scrabble word finder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamTheCry/dumbScrabble.git"
+  },
+  "author": "Corey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IamTheCry/dumbScrabble/issues"
+  },
+  "homepage": "https://github.com/IamTheCry/dumbScrabble#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
